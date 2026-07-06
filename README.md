@@ -14,11 +14,7 @@ The **EdTech AI Learning Companion** is a single‑page web app that helps learn
 
 All UI elements use a dark glass‑morphism style, vibrant accent colors, and smooth micro‑animations for a premium feel.
 
-## 🖼️ Demo Screenshot
 
-![Dashboard mock‑up](dashboard_demo.png)
 
-*(The screenshot shows the welcome header, current focus, next suggested action, stats cards, progress chart, recent activity, and upcoming lessons.)*
 
-## 📁 Repository Structure
 
